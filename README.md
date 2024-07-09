@@ -5,38 +5,44 @@
 
 <h2> 👨🏻‍💻 &nbsp;A little bit about me</h2>
 
-```yaml
+```json
 "personal-information": {
-    "name": "Federico E. Garcia Bengolea"
-    "located_in": "Córdoba, Córdoba Argentina."
+    "name": "Federico E. Garcia Bengolea",
+    "located_in": "Córdoba, Córdoba Argentina.",
+    "age": "28 years olds"
 }
 "jobs": {
-    "current_job": "VN Global BPO"
+    "current_job": "VN Global BPO",
+    "antiquity": "7 years"
 }
 "education": {
       [
-        "Bootcamp FullStack Web Developer",
+        "title": "Bootcamp FullStack Web Developer",
         "company": "Egg Live"
     ],
      [
-        "Bootcamp FullStack Java Web Developer",
+        "title": "Bootcamp FullStack Java Web Developer",
         "company": "Agencia de habilidades para el futuro - Codo a Codo 4.0",
     ],
     [
-        "Autodidactic",
+        "title": "Autodidactic",
         "company": "Me. I'm autodidacty"
     ],
 },
 
 "hobbies": {
+      [
         "Gaming",
         "Cinema",
         "Skateboarding",
         "Family Time",
+      ]
 }
 ```
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+
+
+<h2> 🚀 &nbsp; My skills and tools </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
@@ -65,5 +71,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feddericogarcia)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&reversal=false&section=footer&fontColor=00000099&fontAlign=50&fontAlignY=18&animation=twinkling&textBg=false&descAlign=0&descAlignY=82&fontSize=60">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false&section=footer&animation=twinkling&textBg=false&descAlign=0&descAlignY=82&fontSize=60">
 </p>
