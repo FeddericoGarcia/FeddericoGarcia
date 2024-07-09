@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+![visitors](https://visitor-badge.glitch.me/badge?github.com/FeddericoGarcia=github.com/FeddericoGarcia&left_color=green&right_color=red)
+
 <!--
 **FeddericoGarcia/FeddericoGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
