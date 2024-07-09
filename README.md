@@ -1,19 +1,27 @@
-## Hi there 👋
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20there%20👋%20-nl-I'm%20Fedderico%20Garcia&reversal=false&section=header&fontColor=00000099&fontAlign=50&fontAlignY=18&animation=twinkling&textBg=false&descAlign=0&descAlignY=82&fontSize=60">
+</p>
 
 
-![visitors](https://visitor-badge.glitch.me/badge?[github.com/FeddericoGarcia](https://github.com/FeddericoGarcia)=[github.com/FeddericoGarcia](https://github.com/FeddericoGarcia)&left_color=green&right_color=red)
+<h2> 👨🏻‍💻 &nbsp;A little bit about me</h2>
 
-<!--
-**FeddericoGarcia/FeddericoGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+"name": "Federico E. Garcia Bengolea"
+"located_in": "Córdoba, Argentina."
+"current_job": "VN Global BPO"
+"education":
+  [
+    "Bootcamp FullStack Web Developer",
+    "Bootcamp FullStack Java",
 
-Here are some ideas to get you started:
+  ]
+"company": "Egg Live"
+"company": "Agencia de habilidades para el futuro - Codo a Codo 4.0"
+  
+hobbies: ["Gaming", "Cinema", "Skateboarding", "Family Time"]
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="[https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20there%20👋%20-nl-I'm%20Fedderico%20Garcia&reversal=false&section=header&fontColor=00000099&fontAlign=50&fontAlignY=18&animation=twinkling&textBg=false&descAlign=0&descAlignY=82&fontSize=60](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&reversal=false&section=footer&fontColor=00000099&fontAlign=50&fontAlignY=18&animation=twinkling&textBg=false&descAlign=0&descAlignY=82&fontSize=60
+)">
+</p>
