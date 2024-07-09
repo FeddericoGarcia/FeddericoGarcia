@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20there%20👋%20-nl-I'm%20Fedderico%20Garcia&reversal=false&section=header&fontColor=00000099&fontAlign=50&fontAlignY=18&animation=twinkling&textBg=false&descAlign=0&descAlignY=82&fontSize=60">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20there%20👋%20-nl-I'm%20Fedderico%20Garcia&reversal=false&section=header&fontColor=000000&fontAlign=50&fontAlignY=18&animation=twinkling&textBg=false&descAlign=0&descAlignY=82&fontSize=60">
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;A little bit about me</h2>
@@ -37,10 +37,10 @@
       ]
 }
 ```
-&nbsp;
-&nbsp;
+<br>
+<br>
 
-<h2> 📞 &nbsp; Contact me on </h2>
+<h2> 📞 &nbsp; Contactme on </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/Feddericogarcia" target="__blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin">
@@ -63,13 +63,13 @@
   </a>
 </p>
 
-&nbsp;
-&nbsp;
+<br>
+<br>
 
 <h2> 🚀 &nbsp; My technologies </h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/javas.svg" alt="java" width="45" height="45" />
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/javas.svg" alt="java" width="45" height="45" /> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45" />
@@ -93,11 +93,17 @@
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="45" height="45/> -->
 </p>
 
-&nbsp;
-&nbsp;
+<br>
+<br>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feddericogarcia)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+<summary>Click for GitHub Stats</summary>
+<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=feddericogarcia&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feddericogarcia&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+</p>
+</details>
 
 
 <p align="center">
