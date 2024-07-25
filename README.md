@@ -4,6 +4,9 @@
 
 <h2> 👨🏻‍💻 &nbsp;A little bit about me</h2>
 
+<details>
+<summary>Click to meet me</summary>
+  
 ```json
 "personal-information": {
     "name": "Federico E. Garcia Bengolea",
@@ -37,6 +40,7 @@
       ]
 }
 ```
+</details>
 <br>
 
 <h2> 🚀 &nbsp; My technologies </h2>
