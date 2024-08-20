@@ -104,14 +104,6 @@
     <img src="https://img.shields.io/badge/-@FeddericoGarcia-181717?style=flat-square&logo=GitHub&logoColor=white" alt="github">
   </a>
   &nbsp;
-  <a href="https://www.facebook.com/Feddericogarcia" target="__blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=Facebook&logoColor=white" alt="facebook">
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/feddegarcia_" target="__blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="instagram">
-  </a>
-  &nbsp;
   <a href="mailto:feddericogarciaa@gmail.com" target="__blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="logo-email">
   </a>
