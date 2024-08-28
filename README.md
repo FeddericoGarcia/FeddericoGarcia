@@ -21,7 +21,7 @@
   ],
   [
     "job": "Freelance",
-    "antiquity": "4 years",
+    "antiquity": "2 years",
     "position": "Full Stack Developer",
   ]
 },
@@ -39,14 +39,6 @@
         "company": "Me. I'm autodidacty"
       ],
 },
-"hobbies": {
-      [
-        "Gaming",
-        "Cinema",
-        "Skateboarding",
-        "Family Time"
-      ]
-}
 ```
 </details>
 <br>
