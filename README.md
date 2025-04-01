@@ -11,7 +11,7 @@
 "personal-information": {
     "name": "Federico E. Garcia Bengolea",
     "located_in": "Córdoba, Córdoba Argentina.",
-    "age": "28 years olds"
+    "age": "29 years olds"
 },
 "work-experience": {
   [
@@ -22,10 +22,18 @@
   [
     "job": "Freelance",
     "antiquity": "2 years",
-    "position": "Full Stack Developer",
+    "position": "Full Stack Web Developer",
   ]
 },
 "education": {
+      [
+        "title": "Tecnicatura en Programación",
+        "company": "Universidad Tecnológica Nacional - UTN"
+      ],
+      [
+        "title": "Oracle Next Education - ONE",
+        "company": "Oracle & Alura LATAM"
+      ],
       [
         "title": "Bootcamp FullStack Web Developer",
         "company": "Egg Live"
@@ -33,11 +41,7 @@
       [
         "title": "Bootcamp FullStack Java Web Developer",
         "company": "Agencia de habilidades para el futuro - Codo a Codo 4.0"
-      ],
-      [
-        "title": "Autodidactic",
-        "company": "Me. I'm autodidacty"
-      ],
+      ]
 },
 ```
 </details>
@@ -92,9 +96,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin">
   </a>
   &nbsp;
-  <a href="https://github.com/FeddericoGarcia" target="__blank" style="text-decoration: none">
+<!--   <a href="https://github.com/FeddericoGarcia" target="__blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/-@FeddericoGarcia-181717?style=flat-square&logo=GitHub&logoColor=white" alt="github">
-  </a>
+  </a> -->
   &nbsp;
   <a href="mailto:feddericogarciaa@gmail.com" target="__blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="logo-email">
